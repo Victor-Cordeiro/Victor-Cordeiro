@@ -10,25 +10,6 @@
 - 🎓 Graduating in Information Systems
 - 📫 How to reach me: victorcordeirodesousa@gmail.com
 
----
-
-<p align="center">
-  <a href="https://github.com/Victor-Cordeiro/github-readme-stats">
-    <img
-      align="center"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Victor-Cordeiro&layout=compact&theme=dracula"
-    />
-  </a>
-  <a href="https://github.com/Victor-Cordeiro/github-readme-stats">
-    <img
-      align="center"
-      height="165"
-      src="https://github-readme-stats.vercel.app/api?username=Victor-Cordeiro&show_icons=true&theme=dracula"
-    />
-  </a>
-</p>
-
----
 
 **Languages and Tools:**
 
